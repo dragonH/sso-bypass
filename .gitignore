@@ -3,5 +3,6 @@ node_modules
 jspm_packages
 build
 package-lock.json
+.env
 # Serverless directories
 .serverless
